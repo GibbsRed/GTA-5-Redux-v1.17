@@ -1,5 +1,19 @@
 ## RE-IMAGINE, RE-DESIGN, REDUX. - More than just a graphics overhaul.
 
+![image](https://github.com/GibbsRed/GTA-5-Redux-v1.17/assets/150005913/0a47d10b-67e9-457b-b5b6-01a8ddcbe244)
+
+![image](https://github.com/GibbsRed/GTA-5-Redux-v1.17/assets/150005913/9b9b7f0f-9dea-4cd1-becd-7c6ee8452b08)
+
+![image](https://github.com/GibbsRed/GTA-5-Redux-v1.17/assets/150005913/42974e24-c24e-4d81-81a8-380565aaa835)
+![image](https://github.com/GibbsRed/GTA-5-Redux-v1.17/assets/150005913/18ae1918-90f8-4f9f-a63a-808d5dd6fd55)
+![image](https://github.com/GibbsRed/GTA-5-Redux-v1.17/assets/150005913/a4aa497c-5351-4ab7-8513-bb9ad59b2e7d)
+![image](https://github.com/GibbsRed/GTA-5-Redux-v1.17/assets/150005913/85b2c19d-8144-4bc0-881f-747c4c78137c)
+
+
+
+
+
+
 
 ## WEATHER SYSTEM +
 - 100% re-written weather from scratch, no detail has been overlooked. All-weather has been carefully crafted to provide a stunning sunrise/sunset, as well evening, night and day. All weathers are made to blend together naturally and create an image that will leave you breathless.
